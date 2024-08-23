@@ -3,12 +3,6 @@ Projeto de um site desktop de portfólio para desenvolvedores, com links para pr
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
   <img alt="License" src="https://github.com/IsabelyMartiniano/portfolio-dev/blob/main/portfolio/image/Thumbnail.png">
 </p>
 
