@@ -9,7 +9,7 @@ Projeto de um site desktop de portfólio para desenvolvedores, com links para pr
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/IsabelyMartiniano/portal-de-noticias/blob/main/portalnoticias/image/Thumbnail.png">
+  <img alt="License" src="https://github.com/IsabelyMartiniano/portfolio-dev/blob/main/portfolio/image/Thumbnail.png">
 </p>
 
 <br>
